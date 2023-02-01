@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+@charset "ISO-8859-1";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenedor {
+    padding: 1rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img-cat{
+    width: 32px;
+    height: 32px;
+}
+.tittle{
+	padding-top: 2rem;
+	text-align: center;
+}
+.tabla1 {
+	width : 30%;
+    padding: 1rem 1rem;
+    margin: 0 auto;
+}
